@@ -11,3 +11,5 @@
 |Operating System | [Last Minute OS](https://www.geeksforgeeks.org/last-minute-notes-operating-systems/)|
 |Computer Network|[Last Minute CN](https://www.geeksforgeeks.org/last-minute-notes-computer-network/) |
 |OOP|[Last Minute OOP](https://drive.google.com/file/d/1CljO4lsVcxLXj59X0OMBB5WNhG0fzVOw/view)|
+|GFG Aptitude|[GFG Aptitude Link](https://www.geeksforgeeks.org/aptitude-gq/)|
+|Aptitude|[IndiaBix](https://www.indiabix.com/)|
